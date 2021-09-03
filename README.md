@@ -1,4 +1,4 @@
-## ncnn_Android_human
+## ncnn_Android_human_segmentation
 
 this project is a ncnn Android demo for MODNet and RobustVideoMatting, it depends on ncnn library and opencv.  
 https://github.com/Tencent/ncnn
