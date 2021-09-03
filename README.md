@@ -4,7 +4,7 @@ this project is a ncnn Android demo for MODNet and RobustVideoMatting, it depend
 https://github.com/Tencent/ncnn
 https://github.com/nihui/opencv-mobile
 ## model support:  
-1.rvm_mobilenetv3(from RobustVideoMatting)  
+1.rvm_mobilenetv3(from RobustVideoMatting(https://github.com/PeterL1n/RobustVideoMatting))  
 
 ## how to build and run
 ### step1
