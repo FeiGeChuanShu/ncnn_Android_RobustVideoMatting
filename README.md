@@ -1,5 +1,5 @@
 # ncnn_Android_human
-Android human segmentation by ncnn
+
 this project is a ncnn Android demo for MODNet and RobustVideoMatting.
 
 # reference:  
