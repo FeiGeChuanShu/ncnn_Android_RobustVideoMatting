@@ -21,7 +21,7 @@ https://github.com/nihui/opencv-mobile
 * Open this project with Android Studio, build it and enjoy!
 ## result  
 ![](result.gif)  
-# reference:  
+## reference:  
 https://github.com/nihui/ncnn-android-nanodet  
 https://github.com/PeterL1n/RobustVideoMatting  
 https://github.com/ZHKKKe/MODNet  
