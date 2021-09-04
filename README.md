@@ -5,7 +5,7 @@ https://github.com/Tencent/ncnn
 https://github.com/nihui/opencv-mobile
 ## model support:  
 1.rvm_mobilenetv3 single frame(from [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting))  
-2.rvm_mobilenetv3 with time series
+2.TODO:rvm_mobilenetv3 with time series
 ## how to build and run
 ### step1
 https://github.com/Tencent/ncnn/releases
