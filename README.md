@@ -4,7 +4,7 @@ this project is a ncnn Android demo for RobustVideoMatting, it depends on ncnn l
 https://github.com/Tencent/ncnn  
 https://github.com/nihui/opencv-mobile
 ## model support:  
-1.rvm_mobilenetv3 single frame(from [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting))  
+1.rvm_mobilenetv3 single frame(The actual performance may be poor)(from [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting))  
 2.TODO:rvm_mobilenetv3 with time series
 ## how to build and run
 ### step1
