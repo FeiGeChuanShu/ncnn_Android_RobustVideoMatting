@@ -42,7 +42,7 @@ public:
 
 private:
 
-    void matting(cv::Mat &rgb,cv::Mat &mask);
+    void matting(cv::Mat &rgb, cv::Mat &mask, cv::Mat &fgr);
     ncnn::Net faceseg;
 
     ncnn::Mat r1i, r2i, r3i, r4i;
